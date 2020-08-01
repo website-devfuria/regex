@@ -1,4 +1,4 @@
-# DevFuria - RegEx (expressoes Regulares)
+# DevFuria - RegEx (Expressões Regulares)
 
 
 
